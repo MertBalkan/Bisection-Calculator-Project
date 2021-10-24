@@ -6,11 +6,13 @@
 class BisectionCalculator
 {
 private:
+    //private class variables...
     long double _minRange, _maxRange, _sensitivity, _maxRepeatCount;
     int _currentRepeatCount;
     double _currentRoot, _decisiveRoot;
 
 public:
+    //public class methods...
     void StartProgram();
     void EndProgram(long double, int);
 
