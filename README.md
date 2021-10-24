@@ -5,3 +5,4 @@ Easy bisection calculator program on C++
 <h1>Content</h1>
 
 <h2>Algorithm:</h2>
+[Algorithm That I Use](https://github.com/MertBalkan/Bisection-Calculator-Project/blob/main/Images/Algorithm.png)
